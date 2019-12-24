@@ -13,7 +13,7 @@ Functionlity:
 1. Click on 'Book My Show' on the top left corner - about information for BMS
 2. Click on Movies - View details of the latest movies, their trailers
 3. Click on SignIn - Sign in using username and password. User can can either be your email address or a 10 digit mobile number. Password can be anything. 
-4. Click on Contact Us - A form for contactiing our team
+4. Click on Contact Us - A form for contacting our team
 5. Click on Watch trailer button to watch the trailer for that movie. (Please note, access to 'YouTube' is required for this option to work'). 
 6. Click on any movie's image to see the popover with its ratings and the plot. Click on the image again to close the popover.
 
