@@ -1,0 +1,79 @@
+.container-fluid {
+  /* color: red; */
+  margin-left: 100px;
+}
+
+/* .navbar-header{
+    background:black;
+} */
+.input-group {
+  width: 600px;
+}
+.secondary {
+  margin-top: 0px;
+  padding-top: 0%;
+  height: 3px;
+}
+.primary {
+  margin-bottom: 0px;
+}
+.modal-body .btn,
+#usr,
+#pw {
+  margin-bottom: 20px;
+}
+.modal-title {
+  text-align: center;
+}
+.modal-body .btn #fb,
+#google {
+  height: 8%;
+  width: 8%;
+  float: left;
+}
+.modal-dialog {
+  width: 400px;
+  margin-top: 140px;
+}
+
+.modal-body #usr,
+#pw {
+  border: 0;
+  outline: 0;
+  /* background: transparent; */
+  border-bottom: 1px solid black;
+}
+
+/* #myCarousel{
+      margin-top: 5px;
+  } */
+.carContainer {
+  width: 30%;
+}
+.moviesDeck {
+  margin-top: 80px;
+}
+.thumbImg {
+  max-height: 100%;
+  max-width: 100%;
+}
+.thumbnail {
+  width: 6cm;
+  height: 7cm;
+}
+.trailerModal {
+  height: 900px;
+  width: 900px;
+}
+pre{
+    font-family: cursive;
+    background: lightcoral;
+    font-weight: bold;
+    }
+    body{
+        background:linen;
+    }
+    .popover{
+        width: 500px;
+        height: 300px;
+    }
